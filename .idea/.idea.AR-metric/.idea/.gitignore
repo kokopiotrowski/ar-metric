@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.AR-metric.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Programming\UnityGames\AR-metric\.idea\.idea.AR-metric\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
